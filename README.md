@@ -14,3 +14,8 @@ si un capteur detecte un mouvement ou bien si un boutton est appuyé
 -----------interrupt service Routine (ISR):fonctions qui gèrent les interruptions matériels .--------
 # Explication du Code 
 ce code permet d'envoyer trois tache  de meme priorité vis le protocole UART (Universal asynchronous receiver transmitter)
+### résultat :
+Concernant le résultat  j'ai une video sur mon compte  linkedin :
+### .
+https://www.linkedin.com/posts/nawres-barhoumi-199119206_freertos-stm32nucleo-uart-activity-7192475220174131200-W068?utm_source=share&utm_medium=member_desktop
+
